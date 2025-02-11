@@ -1,2 +1,2 @@
-# boot_whatsapp_web
-boot do whatsapp
+# bot_whatsapp_web
+bot do whatsapp
